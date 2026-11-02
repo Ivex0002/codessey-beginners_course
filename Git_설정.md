@@ -1,5 +1,8 @@
 # Git 설정 및 GitHub 연동
 
+### 해당 저장소 링크
+[https://github.com/Ivex0002/codessey_git_practice](https://github.com/Ivex0002/codessey_git_practice)
+
 ### 이전 사용자 데이터 삭제(보안)
 ```
 PS C:\Users\User> git config --global --list
