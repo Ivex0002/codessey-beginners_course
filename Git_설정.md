@@ -63,7 +63,9 @@ To https://github.com/Ivex0002/codessey_git_practice.git
 branch 'main' set up to track 'origin/main'.
 ```
 - 데이터 덮어쓰기 안전을 위해 이전 프로젝트의 폴더 대신 새로운 폴더, 새로운 저장소를 생성하여 연결함
+
 <img width="1176" height="732" alt="image" src="https://github.com/user-attachments/assets/458d89d9-1922-4e68-a42f-959c5092033b" />
+
 - 해당 저장소 커밋 로그에서 제대로 푸시가 완료되었음을 확인
 
 ```
