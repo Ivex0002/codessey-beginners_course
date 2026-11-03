@@ -1,6 +1,10 @@
 # 미션1 - 내 컴퓨터에 개발자용 '작업실' 꾸미기
 
 ## 프로젝트 개요
+
+### 보너스 미션 링크
+[codyssey_mission_E1-1_bonus](https://github.com/Ivex0002/codyssey_mission_E1-1_bonus/blob/main/README.md)
+
 ### 기본 작업 환경 꾸리기
 - 현재 작업 중인 기기의 실행 환경 조사
 - Docker, 터미널 등 기본적인 작업도구 설치 및 실행
