@@ -25,6 +25,8 @@
 
 [권한_실습_및_증거_기록.md](권한_실습_및_증거_기록.md)
 
+[권한 조작 관련 명령어 정리 문서](https://github.com/Ivex0002/icacls_command/blob/main/README.md)
+
 - [x] Docker 설치/점검
 
 [Docker_설치_및_점검.md](Docker_설치_및_점검.md)
