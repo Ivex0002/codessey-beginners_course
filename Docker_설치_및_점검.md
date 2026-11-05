@@ -129,6 +129,7 @@ Usage:  docker logs [OPTIONS] CONTAINER
 
 Run 'docker logs --help' for more information
 ```
+- 실제 실무에서는 nginx 버전에 따라 실행 여부가 달라질 수 있으므로 주의 필요
 ```PowerShell
 C:\Users\User>docker pull nginx
 Using default tag: latest
